@@ -31,5 +31,5 @@ Each file includes both statistical and frequency features, along with a column 
 
 ## 👤 Author
 **Mohamad Nweder**  
-Course: AI and Digitalization  
+Course: : Industrial AI and eMaintenance - Part I: Theories & Concepts D7015B 55031, 7.5 Credits. 
 Luleå University of Technology  
